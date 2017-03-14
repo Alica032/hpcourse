@@ -1,3 +1,4 @@
+// Homework1 Fenicheva Sofya 
 #include <pthread.h>
 #include <iostream>
 #include <vector>
